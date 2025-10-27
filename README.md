@@ -18,6 +18,8 @@ Una vez desplegado, el sitio estará disponible en:
 
 https://yovidev.github.io/gh-deployment-workflow/
 
+https://roadmap.sh/projects/github-actions-deployment-workflow
+
 ## Cómo funciona
 
 Cada vez que se haga un push a la rama `main` que incluya cambios en `index.html`, el workflow se ejecutará y desplegará el contenido a GitHub Pages.
@@ -37,4 +39,5 @@ Esto te permitirá crear un portafolio más completo y profesional.
 - GitHub Actions
 - GitHub Pages
 - CI/CD (Integración y Despliegue Continuo)
+
 - Automatización de flujos de trabajo
